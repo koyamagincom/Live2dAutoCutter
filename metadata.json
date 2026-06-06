@@ -1,0 +1,6 @@
+{
+  "name": "Live2D AutoCutter",
+  "description": "Professional tool for automated Live2D character generation and intelligent layer separation. High-accuracy part identification and layering for vtuber models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
